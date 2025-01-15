@@ -7,7 +7,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=madisomelese" alt="madisomelese" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MadisoMelese" alt="Madiso Melese" />
   </a> 
 </p>
 
@@ -179,9 +179,15 @@
   <a href="https://instagram.com/madiso melese" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madiso melese" height="30" width="40" />
   </a>
+  <a href="mailto:madishamadiso00@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="your-email" height="30" width="40" />
+</a>
+
 </p>
 
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MadisoMelese&" alt="Madiso Melese" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MadisoMelese" alt="Madiso Melese" />
+
 </p>
