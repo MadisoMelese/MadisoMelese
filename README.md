@@ -1,6 +1,8 @@
 <h1 align="center">Hi there👋, I'm Dev Madiso Melese</h1>
-<h3 align="center">A passionate Full-Stack developer from Ethiopia</h3>
-
+<h3 align="center">A passionate Full-Stack developer based on Ethiopia</h3>
+<p>
+I'm self-thought developer
+and 4rd year Computer Science student at Bonga University, Ethiopia. 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=madisomelese&label=Profile%20views&color=0e75b6&style=flat" alt="madisomelese" /> 
 </p>
