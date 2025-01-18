@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madiso Melese</h1>
+<h1 align="center">Hi there👋, I'm Dev Madiso Melese</h1>
 <h3 align="center">A passionate Full-Stack developer from Ethiopia</h3>
 
 <p align="left">
