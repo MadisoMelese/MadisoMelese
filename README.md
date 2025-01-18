@@ -17,7 +17,7 @@
 - 📫 How to reach me **madishamadiso00@gmail.com**
 - 👨‍💻 Personal Website:- https://madisomelese.vercel.app
 
-- ⚡ Fun fact **Jesus will come back soon!**
+- ⚡ Fun fact:- **Jesus will come back soon!**
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MadisoMelese&theme=default)
