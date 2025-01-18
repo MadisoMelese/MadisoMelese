@@ -131,7 +131,13 @@
   </a> &nbsp; &nbsp; 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
     <img src="https://gitlab.platformq.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg" alt="Git Lab" width="40" height="40"/> 
-  </a> 
+  </a>  &nbsp; &nbsp; 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a> &nbsp; &nbsp; 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>
 
 </p>
 
