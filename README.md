@@ -10,12 +10,12 @@
     <img src="https://github-profile-trophy.vercel.app/?username=MadisoMelese" alt="Madiso Melese" />
   </a> 
 </p>
-- 👨‍💻 Personal Website [https://madisomelese.vercel.app/](https://madisomelese.vercel.app/)
 
 - 🔭 I’m currently working on **BUGCVS**
 - 💬 Ask me about **React, JavaScript, Nodejs, Expressjs, MongoDB**
 
 - 📫 How to reach me **madishamadiso00@gmail.com**
+- 👨‍💻 Personal Website:- https://madisomelese.vercel.app
 
 - ⚡ Fun fact **Jesus will come back soon!**
 
