@@ -135,8 +135,6 @@
 
 </p>
 
-<hr />
-
 
 <h2>Code Editors</h2>
 <p>
@@ -144,13 +142,13 @@
     <img src="https://th.bing.com/th/id/R.3919e5b2f737f142a45921320e666382?rik=mkXBaXp%2bAMCTcw&pid=ImgRaw&r=0" alt="git" width="40" height="40"/> 
   </a> &nbsp; &nbsp; 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://i.pinimg.com/originals/ac/b3/51/acb3513e5a2664ba59bec11222863a40.jpg" alt="Github" width="40" height="40"/> 
+    <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/7.3.0/240/iconmonstr-terminal-filled.png" alt="Github" width="40" height="40"/> 
   </a> &nbsp; &nbsp; 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+    <img src="https://th.bing.com/th/id/OIP.E8NtPu3aiA3ITkN0IpvjqQHaHa?rs=1&pid=ImgDetMain" alt="azure" width="40" height="40"/> 
   </a> &nbsp; &nbsp; 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://gitlab.platformq.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg" alt="Git Lab" width="40" height="40"/> 
+    <img src="https://th.bing.com/th/id/OIP.3zJxq7FYNoZIKkqCy7IWyQHaHw?rs=1&pid=ImgDetMain" alt="Git Lab" width="40" height="40"/> 
   </a> 
 
 </p>
