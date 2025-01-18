@@ -138,6 +138,9 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/7.3.0/240/iconmonstr-terminal-filled.png" alt="Github" width="40" height="40"/> 
+  </a> &nbsp; &nbsp; 
 
 </p>
 
@@ -147,9 +150,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://th.bing.com/th/id/R.3919e5b2f737f142a45921320e666382?rik=mkXBaXp%2bAMCTcw&pid=ImgRaw&r=0" alt="git" width="40" height="40"/> 
   </a> &nbsp; &nbsp; 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/7.3.0/240/iconmonstr-terminal-filled.png" alt="Github" width="40" height="40"/> 
-  </a> &nbsp; &nbsp; 
+
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
     <img src="https://th.bing.com/th/id/OIP.E8NtPu3aiA3ITkN0IpvjqQHaHa?rs=1&pid=ImgDetMain" alt="azure" width="40" height="40"/> 
   </a> &nbsp; &nbsp; 
