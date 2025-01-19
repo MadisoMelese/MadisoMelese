@@ -139,7 +139,7 @@ and 4rd year Computer Science student at Bonga University, Ethiopia.
   </a> &nbsp; &nbsp; 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
+  </a>&nbsp; &nbsp; 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdns.iconmonstr.com/wp-content/releases/preview/7.3.0/240/iconmonstr-terminal-filled.png" alt="Github" width="40" height="40"/> 
   </a> &nbsp; &nbsp; 
