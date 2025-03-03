@@ -9,7 +9,7 @@ and 4rd year Computer Science student at Bonga University, Ethiopia.
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=MadisoMelese" alt="Madiso Melese" &nbsp; &nbsp;/>
+    <img src="https://github-profile-trophy.vercel.app/?username=MadisoMelese&margin-w=15" alt="Madiso Melese"/>
   </a> 
 </p>
 
@@ -176,7 +176,7 @@ and 4rd year Computer Science student at Bonga University, Ethiopia.
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MadisoMelese" alt="Madiso Melese" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MadisoMelese" alt="GitHub Streak" />
 </p>
 <hr />
 
