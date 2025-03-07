@@ -22,7 +22,9 @@ and 4rd year Computer Science student at Bonga University, Ethiopia.
 - ⚡ Fun fact:- **Jesus will come back soon!**
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MadisoMelese&theme=default)
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MadisoMelese" alt="GitHub Streak" />
+</p>
 <hr />
 <h1 align="left">Languages and Tools:</h1>
 
