@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Madisom El Ese 👋</h1>
+<h1 align="center">Hey there, I'm Madisom Melese 👋</h1>
 
 <p align="center">
   <a href="https://github.com/madisomelese">
