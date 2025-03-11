@@ -7,6 +7,13 @@
 </p>
 
 ---
+## 🏆 GitHub Achievements - Madiso Melese  
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MadisoMelese&margin-w=15" alt="Madiso Melese"/>
+  </a>
+</p>
+
 
 ## 🚀 About Me  
 🎯 **Passionate MERN Stack Developer** | **AI for Content Creation** | **Tech Visionary**  
