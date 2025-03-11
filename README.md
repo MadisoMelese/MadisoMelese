@@ -73,10 +73,20 @@
 
 ## 📩 Contact Me  
 
-📧 **Email:** [madishamadiso00@gmail.com](mailto:madishamadiso00@gmail.com)  
-🌍 **LinkedIn:** [Madis Melese](https://www.linkedin.com/in/madiso-melese-b7198b305/)  
-🐦 **Twitter:** [Madis Melese](https://twitter.com/madisomelese)  
-💻 **GitHub:** [github.com/madisomelese](https://github.com/madisomelese)  
+<p align="center">
+  <a href="mailto:madishamadiso00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/madiso-melese-b7198b305/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/madisomelese">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://github.com/madisomelese">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ---
 
