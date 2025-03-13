@@ -14,6 +14,17 @@
     <img src="https://github-profile-trophy.vercel.app/?username=madisomelese&theme=darkhub&margin-w=15" alt="Madiso Melese"/>
   </a>
 </p>
+## 🔥 GitHub Streak Stats  
+
+<p align="center">
+  <a href="https://github.com/madisomelese">
+    <img src="https://streak-stats.demolab.com/?user=madisomelese&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+    <a href="https://github.com/madisomelese">
+    <img src="https://github-readme-stats.vercel.app/api?username=madisomelese&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+</p>
+
 
 ---
 
