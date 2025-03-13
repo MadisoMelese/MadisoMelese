@@ -14,30 +14,19 @@
     <img src="https://github-profile-trophy.vercel.app/?username=madisomelese&theme=darkhub&margin-w=15" alt="Madiso Melese"/>
   </a>
 </p>
-## 🔥 GitHub Streak Stats  
-
-<p align="center">
-  <a href="https://github.com/madisomelese">
-    <img src="https://streak-stats.demolab.com/?user=madisomelese&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-    <a href="https://github.com/madisomelese">
-    <img src="https://github-readme-stats.vercel.app/api?username=madisomelese&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-</p>
-
 
 ---
 
 ## 🚀 About Me  
-🎯 **Passionate MERN Stack Developer** | **AI for Content Creation** | **Tech Visionary**  
+🎯 Passionate MERN Stack Developer | AI for Content Creation | Tech Visionary  
 
-- 🔥 **Full Stack Developer** with expertise in **MERN, GraphQL & AI**  
-- 🏢 **Web Developer Intern** at **CodeCraft Infotech**  
-- 🎓 **4th-year CS Student** at **Bonga University**  
-- 🚀 **Building [Madisha Code Lab](#)** → Elevating Ethiopian Tech  
-- 💡 **Dream Big, Build Bigger!**  
+- 🔥 Full Stack Developer with expertise in MERN, GraphQL & AI  
+- 🏢 Web Developer Intern at CodeCraft Infotech  
+- 🎓 4th-year CS Student at Bonga University  
+- 🚀 Building [Madisha Code Lab](#) → Elevating Ethiopian Tech  
+- 💡 Dream Big, Build Bigger!  
 
-🚀 **"Innovate. Build. Lead."**  
+🚀 "Innovate. Build. Lead."  
 
 ---
 
@@ -51,7 +40,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠 Tech Stack  
 
 ### 🚀 Frontend:  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -82,7 +71,7 @@
 
 ---
 
-## 📩 Contact Me  
+## 📩 Contact Me
 
 <p align="center">
   <a href="mailto:madishamadiso00@gmail.com">
@@ -101,8 +90,8 @@
 
 ---
 
-🚀 **Let's build the future, one line of code at a time!**  
-💡 **"Dream it. Code it. Own it!"**  
-⭐ **If you like my work, drop a star!**  
+🚀 Let's build the future, one line of code at a time!  
+💡 "Dream it. Code it. Own it!"  
+⭐️ If you like my work, drop a star!  
 
 ---
