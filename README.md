@@ -28,15 +28,7 @@
 
 🚀 "Innovate. Build. Lead."  
 
----
 
-## 🔥 GitHub Streak Stats  
-
-<p align="center">
-  <a href="https://github.com/madisomelese">
-    <img src="https://streak-stats.demolab.com/?user=madisomelese&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
 
 ---
 
@@ -61,11 +53,14 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Status and Streak  
 
 <p align="center">
   <a href="https://github.com/madisomelese">
     <img src="https://github-readme-stats.vercel.app/api?username=madisomelese&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+    <a href="https://github.com/madisomelese">
+    <img src="https://streak-stats.demolab.com/?user=madisomelese&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
