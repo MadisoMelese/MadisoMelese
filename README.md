@@ -20,7 +20,7 @@
 ## 🚀 About Me  
 🎯 Passionate MERN Stack Developer | AI for Content Creation | Tech Visionary  
 
-- 🔥 Full Stack Developer with expertise in MERN, GraphQL & AI  
+- 🔥 Full Stack Developer with expertise in MERN, GraphQL, API & AI  
 - 🏢 Web Developer Intern at CodeCraft Infotech  
 - 🎓 4th-year CS Student at Bonga University  
 - 🚀 Building [Madisha Code Lab](#) → Elevating Ethiopian Tech  
