@@ -9,8 +9,14 @@
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=madisomelese&label=Profile%20views&color=0e75b6&style=flat" alt="madisomelese" /> 
+  <img src="https://komarev.com/ghpvc/?username=madisomelese&label=Profile%20views&color=0e75b6&style=flat" alt="madisomelese" />  
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- This adds space -->
+  <a href="https://user-badge.committers.top/ethiopia/MadisoMelese">
+    <img src="https://user-badge.committers.top/ethiopia/MadisoMelese.svg" alt="committers.top badge" />
+  </a>
 </p>
+
+
 ## 🏆 GitHub Achievements  
 <p align="center">
 <a href="https://github.com/madisomelese">
