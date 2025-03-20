@@ -10,9 +10,10 @@
 
 ## 🏆 GitHub Achievements  
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=madisomelese&theme=darkhub&margin-w=15" alt="Madiso Melese"/>
-  </a>
+<a href="https://github.com/madisomelese">
+    <img src="https://github-profile-trophy.vercel.app/?username=madisomelese&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophy" />
+</a>
+
 </p>
 
 ---
