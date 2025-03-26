@@ -32,7 +32,7 @@
 
 - 🔥 Full Stack Developer with expertise in MERN, GraphQL, API & AI  
 - 🏢 Web Developer Intern at CodeCraft Infotech  
-- 🎓 4th-year CS Student at Bonga University  
+- 🎓 4th-year CS Student at Bonga University.  
 - 🚀 Building [Madisha Code Lab](#) → Elevating Ethiopian Tech  
 - 💡 Dream Big, Build Bigger!  
 
