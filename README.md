@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🔥+MERN+Stack+Enthusiast;🤖+AI+for+Content+Creation;🚀+Future+Tech+Startup+Founder;💡+Building+Madisha+Code+Lab" alt="Typing SVG" />
   </a>
 </p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=horsicq" alt="GitHub Streak" /></a>
 
 ---
 
