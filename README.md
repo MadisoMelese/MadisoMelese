@@ -7,7 +7,6 @@
 </p>
 
 ---
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=madisomelese&label=Profile%20views&color=0e75b6&style=flat" alt="madisomelese" />  
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- This adds space -->
