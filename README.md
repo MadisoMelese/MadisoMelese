@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=madisomelese&label=Profile%20views&color=0e75b6&style=flat" alt="madisomelese" />  
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- This adds space -->
 <a href="https://user-badge.committers.top/ethiopia/MadisoMelese">
-  <img src="https://user-badge.committers.top/ethiopia/MadisoMelese.svg?t= <?php echo time();?>" alt="Committers Top Badge" />
+  <img src="https://user-badge.committers.top/ethiopia/MadisoMelese.svg?t=1" alt="Committers Top Badge" />
 </a>
 </p>
 
