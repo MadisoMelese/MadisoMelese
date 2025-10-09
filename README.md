@@ -28,15 +28,18 @@
 ---
 
 ## 🚀 About Me  
-🎯 Passionate MERN Stack Developer | AI for Content Creation | Tech Visionary  
 
-- 🔥 Full Stack Developer with expertise in MERN, GraphQL, API & AI  
-- 🏢 Web Developer Intern at CodeCraft Infotech  
-- 🎓 4th-year CS Student at Bonga University.  
-- 🚀 Building [Madisha Code Lab](#) → Elevating Ethiopian Tech  
-- 💡 Dream Big, Build Bigger!  
+🎯 **Passionate Full Stack Developer | Tech Visionary | 3+ Years experience**  
 
-🚀 "Innovate. Build. Lead."  
+- 🔥 Full Stack Developer skilled in **MERN**, **GraphQL**, **RESTful APIs**, and **AI-driven solutions**
+- 👨‍💻 Backend expert with strong skill in Nodejs and Databases
+- 🏢 **Full stack Developer Intern** at *CodeCraft Infotech* (Completed successfully)  
+- 🎓 **Computer Science Graduate** from *Bonga University*  
+- 🚀 Founder of **[Hosaina Tech Solutions](#)** — Driving Ethiopia’s Tech Forward  
+- 💡 *Dream Big, Build Bigger!*  
+
+> 💬 “Innovate. Build. Lead.”  
+
 
 
 
@@ -49,11 +52,12 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 💻 Backend:  
+### 💻 Backend and Database:  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🛠 Tools & DevOps:  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
