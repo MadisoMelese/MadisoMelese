@@ -29,7 +29,7 @@
 
 ## 🚀 About Me  
 
-🎯 **Passionate Full Stack Developer | Tech Visionary | 3+ Years experience**  
+🎯 **Passionate Full Stack Developer | Tech Visionary | 4+ Years experience**  
 
 - 🔥 Full Stack Developer skilled in **MERN**, **GraphQL**, **RESTful APIs**, and **AI-driven solutions**
 - 👨‍💻 Backend expert with strong skill in Nodejs and Databases
