@@ -1,4 +1,5 @@
 <h1 align="center">Hey there, I'm Madiso Melese 👋</h1>
+<h2 align="center">Backend-Focused Full Stack Developer</h2>
 
 <p align="center">
   <a href="https://github.com/madisomelese">
