@@ -29,16 +29,18 @@
 
 ## 🚀 About Me  
 
-🎯 **Passionate Full Stack Developer | Tech Visionary | 4+ Years experience**  
+🎯 **Backend-Focused Full Stack Developer | Tech Builder | Problem Solver**  
 
-- 🔥 Full Stack Developer skilled in **MERN**, **GraphQL**, **RESTful APIs**, and **AI-driven solutions**
-- 👨‍💻 Backend expert with strong skill in Nodejs and Databases
-- 🏢 **Full stack Developer Intern** at *CodeCraft Infotech* (Completed successfully)  
-- 🎓 **Computer Science Graduate** from *Bonga University*  
-- 🚀 Founder of **[Hosaina Tech Solutions](#)** — Driving Ethiopia’s Tech Forward  
-- 💡 *Dream Big, Build Bigger!*  
+- 🔥 Full Stack Developer with strong focus on **Node.js backends**
+- 👨‍💻 Experienced in **MERN**, **REST APIs**, **GraphQL**, and **real-time systems**
+- 🧠 Strong backend foundation with early experience in **PHP & MySQL**, prior to transitioning to Node.js and the MERN stack
+- 🔐 Skilled in authentication, role-based access, and secure API design
+- 🏢 **Full Stack Developer Intern** at *CodeCraft Infotech* (Completed)
+- 💼 Currently working as a **Backend Developer**
+- 🎓 **Computer Science Graduate** — *Bonga University*
+- 🚀 Building **Hosaena Tech Solution** — pushing Ethiopian tech forward
 
-> 💬 “Innovate. Build. Lead.”  
+> 💬 “Stop dreaming, and start doing.”
 
 
 
@@ -52,12 +54,27 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 💻 Backend and Database:  
+### 💻 Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### 🗄 Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ Cloud (Foundations)  
+![AWS](https://img.shields.io/badge/AWS_Fundamentals-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+### 🔐 Auth & Security  
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+- Role-Based Access Control
+- Secure authentication flows
 
 ### 🛠 Tools & DevOps:  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -84,10 +101,10 @@
   <a href="mailto:madishamadiso00@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-right: 10px; transition: transform 0.3s; border-radius: 8px; border: 2px solid #D14836;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
-  <a href="https://www.linkedin.com/in/madiso-melese-b7198b305/">
+  <a href="https://www.linkedin.com/in/madiso-abebe-9a2080358/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px; transition: transform 0.3s; border-radius: 8px; border: 2px solid #0A66C2;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
-  <a href="https://twitter.com/madisomelese">
+  <a href="https://twitter.com/madisha54">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-right: 10px; transition: transform 0.3s; border-radius: 8px; border: 2px solid #1DA1F2;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
   </a>
   <a href="https://github.com/madisomelese">
