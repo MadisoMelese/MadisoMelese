@@ -3,30 +3,31 @@
 
 <p align="center">
   <a href="https://github.com/madisomelese">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🔥+MERN+Stack+Enthusiast;🤖+AI+for+Content+Creation;🚀+Future+Tech+Startup+Founder;💡+Building+Madisha+Code+Lab" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Full+Stack+Developer%3B%F0%9F%94%A5+Technology+Enthusiast%3B%F0%9F%A4%96+AI+Trainer%3B%F0%9F%9A%80+Tech+Startup+Founder%3B%F0%9F%92%A1+Running+Hosaena+Tech+Solution" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=madisomelese&label=Profile%20views&color=0e75b6&style=flat" alt="madisomelese" />  
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- This adds space -->
-<a href="https://user-badge.committers.top/ethiopia/MadisoMelese">
-  <img src="https://user-badge.committers.top/ethiopia/MadisoMelese.svg?t=1" alt="Committers Top Badge" />
-</a>
+  <img src="https://komarev.com/ghpvc/?username=madisomelese&label=Profile%20views&color=0e75b6&style=flat" alt="madisomelese" valign="middle" />
+  &nbsp;&nbsp;
+  <a href="https://user-badge.committers.top/ethiopia/MadisoMelese">
+    <img src="https://user-badge.committers.top/ethiopia/MadisoMelese.svg?t=1" alt="Committers Top Badge" valign="middle" />
+  </a>
 </p>
 
 
 ## 🏆 GitHub Achievements  
+
 <p align="center">
-<a href="https://github.com/madisomelese">
-    <img src="https://github-profile-trophy.vercel.app/?username=madisomelese&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophy" />
-</a>
-
-
+  <a href="https://github.com/madisomelese">
+    <img src="https://trophies.sehmaluva.me/?username=madisomelese&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophy" />
+  </a>
 </p>
 
+
 ---
+
 
 ## 🚀 About Me  
 
@@ -83,16 +84,24 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
+
 ---
 
+
+
 ## 📊 GitHub Status and Streak  
+<p align="center">
+  <a href="https://github.com/madisomelese">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=madisomelese&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madisomelese&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
-<a href="https://github.com/madisomelese">
-    <img src="https://github-readme-stats.vercel.app/api?username=madisomelese&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=madisomelese&theme=radical&hide_border=true)](https://github.com/madisomelese)
+
 
 ---
 
